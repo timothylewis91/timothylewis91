@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Quest/Link**
 
-- 🌱 I’m currently learning **SpringBoot, Java, Angular, Unit Testing**
+- 🌱 I’m currently learning **SpringBoot, Java, Angular, Shopify API**
 
 - 💬 Ask me about **React**
 
