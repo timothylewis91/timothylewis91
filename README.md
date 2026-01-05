@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **lewis_timothy@bah.com/timothyplewis91@yahoo.com**
+- 📫 How to reach me **timothyplewis91@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
