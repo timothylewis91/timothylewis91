@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Quest/Link**
+- 🔭 I’m currently working on **Oracle PL/SQL**
 
-- 🌱 I’m currently learning **SpringBoot, Java, Angular, Shopify API**
+- 🌱 I’m currently learning **enhancing my Oracle PL/SQL skills**
 
 - 💬 Ask me about **React**
 
